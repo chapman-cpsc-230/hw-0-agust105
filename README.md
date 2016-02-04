@@ -1,16 +1,16 @@
 # Git Workflow
 
-**Author:** _\<your name\>_
+**Author:** _Francis Agustin_
 
-**Due date:** _\<date\>_
+**Due date:** _February 9, 2016_
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_Our assignment was to edit this README file from the repository._
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_We learned how to open a repository to fetch our homework, save it onto our local drive, edit it, and push it back onto GitHub._
 
 ## Honor Pledge
 
@@ -21,4 +21,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_Francis Agustin_
